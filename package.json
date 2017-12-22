@@ -1,0 +1,23 @@
+{
+  "name": "token-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phzietsman/token-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phzietsman/token-list/issues"
+  },
+  "homepage": "https://github.com/phzietsman/token-list#readme",
+  "dependencies": {
+    "@google-cloud/functions-emulator": "^1.0.0-alpha.29",
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
